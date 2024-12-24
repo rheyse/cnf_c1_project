@@ -30,4 +30,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: techtrends:latest
+          tags: rheyse93/techtrends:latest
